@@ -12,5 +12,5 @@
 ⚠️This game is translated into Spanish and English language, to run either of these two translations simply change the language and region in the Windows settings.
 
 ***
-[Titlescreen](https://i.imgur.com/lefDRJj.png)
-[Sonic spindashing](https://i.imgur.com/LhrABBv.png)
+![Titlescreen](https://i.imgur.com/lefDRJj.png)
+![Sonic spindashing](https://i.imgur.com/LhrABBv.png)
